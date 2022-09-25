@@ -1,2 +1,2 @@
 # blue_object_detection
-Blue object detection on python - opencv
+Blue object detection with python - opencv
